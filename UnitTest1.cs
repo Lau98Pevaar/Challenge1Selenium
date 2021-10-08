@@ -167,11 +167,11 @@ namespace Challengeone
 
             //Controlar ventana
             webDriver.Manage().Window.Minimize();
-            Thread.Sleep(3000);
+            Thread.Sleep(2000);
             webDriver.Manage().Window.FullScreen();
-            Thread.Sleep(3000);
+            Thread.Sleep(2000);
             webDriver.Manage().Window.Maximize();
-            Thread.Sleep(3000);
+            Thread.Sleep(2000);
 
             //Abrir nueva pestaña y entrar a Pevaar
             ((IJavaScriptExecutor)webDriver).ExecuteScript("window.open('" + "https://pevaar.com/es/" + "')"); //Ejecuta Javascript
