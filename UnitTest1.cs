@@ -176,7 +176,7 @@ namespace Challengeone
             //Abrir nueva pestaña y entrar a Pevaar
             ((IJavaScriptExecutor)webDriver).ExecuteScript("window.open('" + "https://pevaar.com/es/" + "')"); //Ejecuta Javascript
             //((IJavaScriptExecutor)webDriver).ExecuteScript("window.open('" + "https://google.com" + "')"); //Ejecuta Javascript
-            Thread.Sleep(5000);
+            Thread.Sleep(2000);
             webDriver.Quit();
 
 
