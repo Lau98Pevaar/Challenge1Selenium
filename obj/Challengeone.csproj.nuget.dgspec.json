@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pevaar22\\Documents\\Estudio\\Challenge 1\\Challengeone\\Challengeone.csproj": {}
+    "C:\\Users\\pevaar20\\Desktop\\CambiosTutorial Fabian\\Challenge1Selenium\\Challengeone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pevaar22\\Documents\\Estudio\\Challenge 1\\Challengeone\\Challengeone.csproj": {
+    "C:\\Users\\pevaar20\\Desktop\\CambiosTutorial Fabian\\Challenge1Selenium\\Challengeone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pevaar22\\Documents\\Estudio\\Challenge 1\\Challengeone\\Challengeone.csproj",
+        "projectUniqueName": "C:\\Users\\pevaar20\\Desktop\\CambiosTutorial Fabian\\Challenge1Selenium\\Challengeone.csproj",
         "projectName": "Challengeone",
-        "projectPath": "C:\\Users\\Pevaar22\\Documents\\Estudio\\Challenge 1\\Challengeone\\Challengeone.csproj",
-        "packagesPath": "C:\\Users\\Pevaar22\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pevaar22\\Documents\\Estudio\\Challenge 1\\Challengeone\\obj\\",
+        "projectPath": "C:\\Users\\pevaar20\\Desktop\\CambiosTutorial Fabian\\Challenge1Selenium\\Challengeone.csproj",
+        "packagesPath": "C:\\Users\\pevaar20\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pevaar20\\Desktop\\CambiosTutorial Fabian\\Challenge1Selenium\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pevaar22\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pevaar20\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -113,7 +113,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
